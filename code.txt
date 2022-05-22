@@ -1,1 +1,8 @@
 python is easy
+django is awesome
+
+
+frontend :
+	-html
+	-css
+	-js
